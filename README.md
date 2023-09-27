@@ -22,8 +22,7 @@ It includes a few of personal preferences settings / configs (eg. the lint rules
 ## Usage
 
 ```bash
-# using npx
-npx create-react-app my-app --template redux-router-typescript
+npx create-react-app my-app --template redux-router-sass-typescript
 ```
 
 ## Available Scripts
