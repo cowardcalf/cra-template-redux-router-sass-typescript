@@ -1,8 +1,8 @@
-# cra-template-redux-router-sass-typescript
+# Project built from cra-template-redux-router-sass-typescript
 
-This is a [Create React App](https://github.com/facebook/create-react-app) template building up from [cra-template-redux-router-typescript](https://github.com/kuju63/cra-template-redux-router-typescript).
+This is a project created from [Create React App](https://github.com/facebook/create-react-app) with template [cra-template-redux-router-sass-typescript](https://github.com/cowardcalf/cra-template-redux-router-sass-typescript).
 
-Generally it is a [Typescript](https://github.com/microsoft/TypeScript) template for using [redux](https://react-redux.js.org/), [React Router](https://reactrouter.com/) and [sass](https://github.com/sass/sass).
+Generally the template is a [Typescript](https://github.com/microsoft/TypeScript) one for using [redux](https://react-redux.js.org/), [React Router](https://reactrouter.com/) and [sass](https://github.com/sass/sass).
 
 It includes a few of personal preferences settings / configs (eg. the lint rules etc.).
 
@@ -18,13 +18,6 @@ It includes a few of personal preferences settings / configs (eg. the lint rules
 - [prettier](https://github.com/prettier/prettier) and configs
 - [VS Code](https://code.visualstudio.com/) and settings
 - Others come from the Create React App.
-
-## Usage
-
-```bash
-# using npx
-npx create-react-app my-app --template redux-router-typescript
-```
 
 ## Available Scripts
 
@@ -70,14 +63,6 @@ Run the eslint to check the code base.
 ### `npm run lint-fix`
 
 Run the eslint to check and try fixing the code base.
-
-## Other libraries / configs to add
-
-- Styled Components
-- UI frameworks (eg. Material UI, Ant Design)
-- More test setups
-- Analyzer Bundle
-- More...
 
 ## Learn More
 

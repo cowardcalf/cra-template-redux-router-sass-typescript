@@ -1,6 +1,6 @@
 {
   "name": "cra-template-redux-router-sass-typescript",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "CRA template with Router Redux Typescript",
   "main": "index.js",
   "scripts": {
