@@ -1,6 +1,6 @@
 {
   "name": "cra-template-redux-router-sass-typescript",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "CRA template with Router Redux Sass Typescript",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
